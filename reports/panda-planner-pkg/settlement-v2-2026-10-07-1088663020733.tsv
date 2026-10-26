@@ -1,0 +1,14 @@
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	merchant-order-id	adjustment-id	shipment-id	marketplace-name	amount-type	amount-description	amount	fulfillment-id	posted-date	posted-date-time	order-item-code	merchant-order-item-id	merchant-adjustment-item-id	sku	quantity-purchased	promotion-id
+27596204431	23.09.2026 08:21:24 UTC	07.10.2026 08:10:45 UTC	09.10.2026 08:10:45 UTC	474.86	MXN																		
+27596204431						Order	701-2319965-6432224	701-2319965-6432224		Nsv2Jb1l7	Amazon.com.mx	ItemPrice	Principal	431.49	AFN	29.09.2026	29.09.2026 06:32:36 UTC	171187832671641			ES-GBIW-7RV9	1	
+27596204431						Order	701-2319965-6432224	701-2319965-6432224		Nsv2Jb1l7	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-182.24	AFN	29.09.2026	29.09.2026 06:32:36 UTC	171187832671641			ES-GBIW-7RV9	1	
+27596204431						Order	701-2319965-6432224	701-2319965-6432224		Nsv2Jb1l7	Amazon.com.mx	ItemFees	Commission	-43.15	AFN	29.09.2026	29.09.2026 06:32:36 UTC	171187832671641			ES-GBIW-7RV9	1	
+27596204431						Order	701-9520528-4702619	701-9520528-4702619		Nktq0tl4r	Amazon.com.mx	ItemPrice	Principal	562.26	AFN	03.10.2026	03.10.2026 00:30:04 UTC	171369563613081			CHILD-PP20GRAY	2	
+27596204431						Order	701-9520528-4702619	701-9520528-4702619		Nktq0tl4r	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-309.01	AFN	03.10.2026	03.10.2026 00:30:04 UTC	171369563613081			CHILD-PP20GRAY	2	
+27596204431						Order	701-9520528-4702619	701-9520528-4702619		Nktq0tl4r	Amazon.com.mx	ItemFees	Commission	-56.24	AFN	03.10.2026	03.10.2026 00:30:04 UTC	171369563613081			CHILD-PP20GRAY	2	
+27596204431						Order	701-9581689-6266639	701-9581689-6266639		Nttn0tl4r	Amazon.com.mx	ItemPrice	Principal	281.13	AFN	03.10.2026	03.10.2026 00:30:14 UTC	171351334942921			CHILD-PP20GRAY	1	
+27596204431						Order	701-9581689-6266639	701-9581689-6266639		Nttn0tl4r	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-154.50	AFN	03.10.2026	03.10.2026 00:30:14 UTC	171351334942921			CHILD-PP20GRAY	1	
+27596204431						Order	701-9581689-6266639	701-9581689-6266639		Nttn0tl4r	Amazon.com.mx	ItemFees	Commission	-28.12	AFN	03.10.2026	03.10.2026 00:30:14 UTC	171351334942921			CHILD-PP20GRAY	1	
+27596204431						other-transaction						other-transaction	Subscription Fee	-351.67		03.10.2026	03.10.2026 06:11:16 UTC						
+27596204431						other-transaction						other-transaction	Previous Reserve Amount Balance	620.43		23.09.2026	23.09.2026 08:21:30 UTC						
+27596204431						other-transaction						other-transaction	Current Reserve Amount	-295.52		07.10.2026	07.10.2026 08:10:51 UTC						

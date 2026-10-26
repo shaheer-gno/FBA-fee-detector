@@ -1,0 +1,7 @@
+-- DEPRECATED for applying schema.
+-- Use Supabase migrations instead:
+--
+--   npx supabase migration up
+--   npx supabase db reset   # wipe local DB and replay all migrations
+--
+-- Source of truth: supabase/migrations/

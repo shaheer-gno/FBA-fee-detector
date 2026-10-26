@@ -1,0 +1,13 @@
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	merchant-order-id	adjustment-id	shipment-id	marketplace-name	amount-type	amount-description	amount	fulfillment-id	posted-date	posted-date-time	order-item-code	merchant-order-item-id	merchant-adjustment-item-id	sku	quantity-purchased	promotion-id
+27484859601	09.09.2026 08:14:52 UTC	23.09.2026 08:21:24 UTC	25.09.2026 08:21:24 UTC	92.93	MXN																		
+27484859601						Order	701-7452643-0294634	701-7452643-0294634		NxCRhHHzL	Amazon.com.mx	ItemPrice	Principal	431.49	AFN	23.09.2026	23.09.2026 03:08:11 UTC	170489038312761			ES-GBIW-7RV9	1	
+27484859601						Order	701-7452643-0294634	701-7452643-0294634		NxCRhHHzL	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-182.24	AFN	23.09.2026	23.09.2026 03:08:11 UTC	170489038312761			ES-GBIW-7RV9	1	
+27484859601						Order	701-7452643-0294634	701-7452643-0294634		NxCRhHHzL	Amazon.com.mx	ItemFees	Commission	-43.15	AFN	23.09.2026	23.09.2026 03:08:11 UTC	170489038312761			ES-GBIW-7RV9	1	
+27484859601						Order	702-8572637-2990606	702-8572637-2990606		NH2dG0s0s	Amazon.com.mx	ItemPrice	Principal	433.85	AFN	18.09.2026	18.09.2026 07:41:55 UTC	170047449013001			ES-GBIW-7RV9	1	
+27484859601						Order	702-8572637-2990606	702-8572637-2990606		NH2dG0s0s	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-182.24	AFN	18.09.2026	18.09.2026 07:41:55 UTC	170047449013001			ES-GBIW-7RV9	1	
+27484859601						Order	702-8572637-2990606	702-8572637-2990606		NH2dG0s0s	Amazon.com.mx	ItemFees	Commission	-43.38	AFN	18.09.2026	18.09.2026 07:41:55 UTC	170047449013001			ES-GBIW-7RV9	1	
+27484859601						Order	701-5434291-7073027	701-5434291-7073027		NtGGTDQPL	Amazon.com.mx	ItemPrice	Principal	431.49	AFN	23.09.2026	23.09.2026 06:38:17 UTC	170562102125601			ES-GBIW-7RV9	1	
+27484859601						Order	701-5434291-7073027	701-5434291-7073027		NtGGTDQPL	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-182.24	AFN	23.09.2026	23.09.2026 06:38:17 UTC	170562102125601			ES-GBIW-7RV9	1	
+27484859601						Order	701-5434291-7073027	701-5434291-7073027		NtGGTDQPL	Amazon.com.mx	ItemFees	Commission	-43.15	AFN	23.09.2026	23.09.2026 06:38:17 UTC	170562102125601			ES-GBIW-7RV9	1	
+27484859601						other-transaction						other-transaction	Previous Reserve Amount Balance	92.93		09.09.2026	09.09.2026 08:14:59 UTC						
+27484859601						other-transaction						other-transaction	Current Reserve Amount	-620.43		23.09.2026	23.09.2026 08:21:30 UTC						

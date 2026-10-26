@@ -1,0 +1,10 @@
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	merchant-order-id	adjustment-id	shipment-id	marketplace-name	amount-type	amount-description	amount	fulfillment-id	posted-date	posted-date-time	order-item-code	merchant-order-item-id	merchant-adjustment-item-id	sku	quantity-purchased	promotion-id
+27715988241	07.10.2026 08:10:45 UTC	21.10.2026 08:14:58 UTC	23.10.2026 08:14:58 UTC	585.85	MXN																		
+27715988241						Order	702-5000025-0309812	702-5000025-0309812		NxQW4XZp3	Amazon.com.mx	ItemPrice	Principal	455.70	AFN	19.10.2026	19.10.2026 09:57:53 UTC	172650145143361			ES-GBIW-7RV9	1	
+27715988241						Order	702-5000025-0309812	702-5000025-0309812		NxQW4XZp3	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-191.03	AFN	19.10.2026	19.10.2026 09:57:53 UTC	172650145143361			ES-GBIW-7RV9	1	
+27715988241						Order	702-5000025-0309812	702-5000025-0309812		NxQW4XZp3	Amazon.com.mx	ItemFees	Commission	-45.56	AFN	19.10.2026	19.10.2026 09:57:53 UTC	172650145143361			ES-GBIW-7RV9	1	
+27715988241						Order	701-4862464-3490658	701-4862464-3490658		Nhg3RLTWJ	Amazon.com.mx	ItemPrice	Principal	552.27	AFN	12.10.2026	12.10.2026 04:59:41 UTC	172253315394521			4G-GVHT-12EX	1	
+27715988241						Order	701-4862464-3490658	701-4862464-3490658		Nhg3RLTWJ	Amazon.com.mx	ItemFees	FBAPerUnitFulfillmentFee	-206.71	AFN	12.10.2026	12.10.2026 04:59:41 UTC	172253315394521			4G-GVHT-12EX	1	
+27715988241						Order	701-4862464-3490658	701-4862464-3490658		Nhg3RLTWJ	Amazon.com.mx	ItemFees	Commission	-55.23	AFN	12.10.2026	12.10.2026 04:59:41 UTC	172253315394521			4G-GVHT-12EX	1	
+27715988241						other-transaction						other-transaction	Previous Reserve Amount Balance	295.52		07.10.2026	07.10.2026 08:10:51 UTC						
+27715988241						other-transaction						other-transaction	Current Reserve Amount	-219.11		21.10.2026	21.10.2026 08:15:06 UTC						

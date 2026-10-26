@@ -1,0 +1,22 @@
+{
+  "name": "fba-fee-overcharge-detector",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "pnpm -r --parallel --filter @fba/api --filter @fba/web run dev",
+    "dev:api": "pnpm --filter @fba/api dev",
+    "dev:web": "pnpm --filter @fba/web dev",
+    "build": "pnpm --filter @fba/api build && pnpm --filter @fba/web build",
+    "test": "pnpm --filter @fba/api test",
+    "typecheck": "pnpm -r run typecheck",
+    "db:start": "npx supabase start",
+    "db:status": "npx supabase status",
+    "db:migrate": "npx supabase migration up",
+    "db:reset": "npx supabase db reset",
+    "db:migration:new": "npx supabase migration new",
+    "db:migration:list": "npx supabase migration list"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
